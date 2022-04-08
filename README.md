@@ -19,7 +19,7 @@ You can create custom menu on Google Spreadsheet. This should make running the s
 ## Warning
 **_🔥 DO NOT DELETE EVENT ID!_**
 
-Manually deleting `event id` is dangerous as these IDs are way to track existing events - when running the script, IDs are automatically updated. If you are remove then, make sure you are doing this carefully.
+Manually deleting `event id` is dangerous as these IDs are way to track existing events - when running the script, IDs are automatically updated. If you are removing then, make sure you are doing this carefully.
 
 ## Reference
 - [G Suite Pro Tips: how to automatically add a schedule from Google Sheets into Calendar](https://cloud.google.com/blog/products/g-suite/g-suite-pro-tip-how-to-automatically-add-a-schedule-from-google-sheets-into-calendar)
